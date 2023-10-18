@@ -1,0 +1,4 @@
+Duotas lėktuvų skrydžių sąrašas: miestas, miestas, kaina. 
+Rasti pigiausią skrydžio iš vieno duoto miesto į kitą duotą miestą maršrutą ir jo kainą. 
+Numatyti atvejį, kad toks maršrutas neegzistuoja. 
+(grafo realizacija paremta kaimynystės matrica)
